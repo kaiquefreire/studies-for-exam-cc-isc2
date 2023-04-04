@@ -1,12 +1,23 @@
-# studies-for-exam-cc-isc2
+# Network Security
 ## Modelo OSI e TCP/IP
 
-| Camada OSI | Camada TCP/IP | Pacotes |
+| OSI Model | TCP/IP Model | Packets |
 |------------|---------------|---------|
-| 7 - Aplicação | 4 - Aplicação | HTTP, FTP, SMTP, DNS |
-| 6 - Apresentação |  |  JPEG, MPEG|
-| 5 - Sessão |  | NFS, SQL, PAP|
-| 4 - Transporte | 3 - Transporte | TCP, UDP |
-| 3 - Rede | 2 - Internet |  IPV4, IPV6 |
-| 2 - Enlace de Dados | 1 - Acesso à Rede | IP, ICMP, ARP,|
-| 1 - Física |  |  Ethernet, Wi-Fi  | 
+| 7 - Application | 4 - Application | HTTP, FTP, SMTP, DNS |
+| 6 - Presentation |  | JPEG, MPEG |
+| 5 - Session |  | NFS, SQL, PAP |
+| 4 - Transport | 3 - Transport | TCP, UDP |
+| 3 - Network | 2 - Internet | IPv4, IPv6 |
+| 2 - Data Link | 1 - Network Access | IP, ICMP, ARP |
+| 1 - Physical |  | Ethernet, Wi-Fi |
+
+## Describing each layers:
+| Layer | Provides|
+|------------|---------------|
+|Application |  Provides the services to users |
+|Presentation |         |
+|Session |         |
+|Transport |         |
+|Network |         |
+|Data Link (Enlace) |         |
+|Physical |         |
