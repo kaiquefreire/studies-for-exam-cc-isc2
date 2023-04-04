@@ -10,3 +10,4 @@
 | 2 - Enlace de Dados | 1 - Acesso à Rede | IP, ICMP, ARP,|
 | 1 - Física |  |  Ethernet, Wi-Fi  | 
 # studies-for-exam-cc-isc2
+# studies-for-exam-cc-isc2
