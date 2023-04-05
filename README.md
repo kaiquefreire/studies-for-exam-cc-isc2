@@ -1,5 +1,5 @@
 ## About domains for the exam
-Hi evereyone!
+Hi, evereyone!
 
 The purpose of this material is to direct and simplify the domains required in the Certified in Cybersecurity (ISC²) exam. 
 
