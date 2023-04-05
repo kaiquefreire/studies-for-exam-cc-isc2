@@ -20,7 +20,7 @@ About ingress and egress monitoring traffic, we have some keywords.
 - Outbound traffic / egress  monitoring: Data Loss Prevention (DLP) solutions or Data Leak Protection
 
 ## OSI model & TCP/IP model
-Here we have a 
+Here we have a example of network models 
 | OSI Model | TCP/IP Model | Packets |
 |------------|---------------|---------|
 | 7 - Application | 4 - Application | HTTP, FTP, SMTP, DNS |
@@ -31,6 +31,7 @@ Here we have a
 | 2 - Data Link | 1 - Network Access | IP, ICMP, ARP |
 | 1 - Physical |  | Ethernet, Wi-Fi |
 
+A short summary of each layer
 | Layer | Provides |
 |-------|----------|
 | Application | Provides network services to end-users, such as email, web browsing, and file transfer |
