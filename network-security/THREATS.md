@@ -15,3 +15,15 @@
 | Insider | An attack where a trusted individual with access to a system or network abuses that access for personal gain or to cause harm. |
 | Malware | A broad term for any type of malicious software, including viruses, worms, trojans, and other types of malicious code. |
 | Ransomware | A type of malware that encrypts a user's files and demands payment in exchange for the decryption key. Ransomware can be distributed through email, malicious websites, or other means. |
+
+# Tools used to identify and prevent threats
+| Tool | Description | Identifies Threats | Prevents Threats |
+| --- | --- | --- | --- |
+| IDS (Intrusion Detection System) | Real-time intrusion detection system that monitors and analyzes network traffic for suspicious activity. | ✔️ | |
+| HIDS (Host-based Intrusion Detection System) | Host-based intrusion detection system that monitors activity on a specific operating system for suspicious activity. | ✔️ | |
+| NIDS (Network-based Intrusion Detection System) | Network-based intrusion detection system that monitors network traffic for suspicious activity. | ✔️ | |
+| SIEM (Security Information and Event Management) | Security information and event management system that collects and analyzes information from various sources to identify security threats. | ✔️ | |
+| Anti-malware/Antivirus | Software tool designed to detect, prevent, and remove malicious software such as viruses, worms, and trojans. | ✔️ | ✔️ |
+| Scans | Software tool that scans and analyzes a system for security vulnerabilities. | ✔️ | |
+| Firewalls | Security system that monitors and controls network traffic based on a set of predefined rules. | ✔️ | ✔️ |
+| IPS/NIPS/HIPS (Intrusion Prevention System/Network-based IPS/Host-based IPS) | Intrusion prevention system that identifies and blocks malicious activity in real-time. | ✔️ | ✔️ |
