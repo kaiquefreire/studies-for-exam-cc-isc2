@@ -11,8 +11,7 @@
 | An entity with authorized access that has the potential to harm an information system through destruction, disclosure, modification of data, and/or denial of service. | Insider Threat |  
 | An operating system manufactured by Apple Inc. Used for mobile devices. | iOS |  
 | The use of multiple controls arranged in series to provide several consecutive controls to protect an asset; also called defense in depth. | Layered Defense |  
-| An operating system that is open source, making its source code legally available to end users. | 
-Linux |  
+| An operating system that is open source, making its source code legally available to end users. | Linux |  
 | A system irregularity that is identified when studying log entries which could represent events of interest for further surveillance. | Log Anomaly |  
 | Collecting and storing user activities in a log, which is a record of the events occurring within an organization's systems and networks. NIST SP 1800-25B. | logging |  
 | An automated system that controls an individual's ability to access one or more computer system resources, such as a workstation, network, application or database. A logical access control system requires the validation of an individual's identity through some mechanism, such as a PIN, card, biometric or other token. It has the capability to assign different access privileges to different individuals depending on their roles and responsibilities in an organization.  | Logical Access Control Systems |  
